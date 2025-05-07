@@ -3,11 +3,7 @@
 Project description, please include the main idea and questions that motivate the project.
 
 
-**Project leads:** name, affiliation/github username
-
-**Project members:** name, affiliation/github username
-
-**Collaborators:** list here other collaborators to the project.
+**Project lead:** Chris Aiken, University of Tasmania
 
 **Data:**
 * Name, link
