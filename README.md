@@ -10,7 +10,7 @@ The focus of this project will be on cyclonic features such as tropical cyclones
 
 ### Required tools ###
 
-**TempestExtremes (/g/data/gb02/tempestextremes)**: The main tool used for tracking and identification of weather systems will be TempestExtremes (TE). TE has been used by various people in the Centre. Chnehui Jin (Monash) has compiled a version on gb02 for use. More information on the tool can be found at https://climate.ucdavis.edu/tempestextremes.php.
+**TempestExtremes (/g/data/gb02/tempestextremes)**: The main tool used for tracking and identification of weather systems will be TempestExtremes (TE). TE has been used by various people in the Centre to track different types of weather objects. Chenhui Jin (Monash) has compiled a version on gb02 for use. More information on the tool can be found at https://climate.ucdavis.edu/tempestextremes.php.
 
 
 
