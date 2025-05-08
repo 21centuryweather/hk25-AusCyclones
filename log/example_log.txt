@@ -1,0 +1,1615 @@
+..Generating RLL grid data
+....Total calculated grid area: 1.256637061435885e+01 sr
+....Done
+..Time 1980-01-01 00:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7323
+....Rejected ( threshold): 0
+....Rejected (contour msl): 851
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-01 01:00:00.. (skipping)
+..Time 1980-01-01 02:00:00.. (skipping)
+..Time 1980-01-01 03:00:00.. (skipping)
+..Time 1980-01-01 04:00:00.. (skipping)
+..Time 1980-01-01 05:00:00.. (skipping)
+..Time 1980-01-01 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7528
+....Rejected ( threshold): 0
+....Rejected (contour msl): 831
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-01 07:00:00.. (skipping)
+..Time 1980-01-01 08:00:00.. (skipping)
+..Time 1980-01-01 09:00:00.. (skipping)
+..Time 1980-01-01 10:00:00.. (skipping)
+..Time 1980-01-01 11:00:00.. (skipping)
+..Time 1980-01-01 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7829
+....Rejected ( threshold): 0
+....Rejected (contour msl): 822
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-01 13:00:00.. (skipping)
+..Time 1980-01-01 14:00:00.. (skipping)
+..Time 1980-01-01 15:00:00.. (skipping)
+..Time 1980-01-01 16:00:00.. (skipping)
+..Time 1980-01-01 17:00:00.. (skipping)
+..Time 1980-01-01 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7371
+....Rejected ( threshold): 0
+....Rejected (contour msl): 818
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-01 19:00:00.. (skipping)
+..Time 1980-01-01 20:00:00.. (skipping)
+..Time 1980-01-01 21:00:00.. (skipping)
+..Time 1980-01-01 22:00:00.. (skipping)
+..Time 1980-01-01 23:00:00.. (skipping)
+..Time 1980-01-02 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7262
+....Rejected ( threshold): 0
+....Rejected (contour msl): 845
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 37
+....Done
+..Time 1980-01-02 01:00:00.. (skipping)
+..Time 1980-01-02 02:00:00.. (skipping)
+..Time 1980-01-02 03:00:00.. (skipping)
+..Time 1980-01-02 04:00:00.. (skipping)
+..Time 1980-01-02 05:00:00.. (skipping)
+..Time 1980-01-02 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7975
+....Rejected ( threshold): 0
+....Rejected (contour msl): 110
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-02 07:00:00.. (skipping)
+..Time 1980-01-02 08:00:00.. (skipping)
+..Time 1980-01-02 09:00:00.. (skipping)
+..Time 1980-01-02 10:00:00.. (skipping)
+..Time 1980-01-02 11:00:00.. (skipping)
+..Time 1980-01-02 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7629
+....Rejected ( threshold): 0
+....Rejected (contour msl): 831
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-02 13:00:00.. (skipping)
+..Time 1980-01-02 14:00:00.. (skipping)
+..Time 1980-01-02 15:00:00.. (skipping)
+..Time 1980-01-02 16:00:00.. (skipping)
+..Time 1980-01-02 17:00:00.. (skipping)
+..Time 1980-01-02 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8179
+....Rejected ( threshold): 0
+....Rejected (contour msl): 98
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-02 19:00:00.. (skipping)
+..Time 1980-01-02 20:00:00.. (skipping)
+..Time 1980-01-02 21:00:00.. (skipping)
+..Time 1980-01-02 22:00:00.. (skipping)
+..Time 1980-01-02 23:00:00.. (skipping)
+..Time 1980-01-03 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7330
+....Rejected ( threshold): 0
+....Rejected (contour msl): 691
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 37
+....Done
+..Time 1980-01-03 01:00:00.. (skipping)
+..Time 1980-01-03 02:00:00.. (skipping)
+..Time 1980-01-03 03:00:00.. (skipping)
+..Time 1980-01-03 04:00:00.. (skipping)
+..Time 1980-01-03 05:00:00.. (skipping)
+..Time 1980-01-03 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8144
+....Rejected ( threshold): 0
+....Rejected (contour msl): 110
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 41
+....Done
+..Time 1980-01-03 07:00:00.. (skipping)
+..Time 1980-01-03 08:00:00.. (skipping)
+..Time 1980-01-03 09:00:00.. (skipping)
+..Time 1980-01-03 10:00:00.. (skipping)
+..Time 1980-01-03 11:00:00.. (skipping)
+..Time 1980-01-03 12:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 8726
+....Rejected ( threshold): 0
+....Rejected (contour msl): 95
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 41
+....Done
+..Time 1980-01-03 13:00:00.. (skipping)
+..Time 1980-01-03 14:00:00.. (skipping)
+..Time 1980-01-03 15:00:00.. (skipping)
+..Time 1980-01-03 16:00:00.. (skipping)
+..Time 1980-01-03 17:00:00.. (skipping)
+..Time 1980-01-03 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 9015
+....Rejected ( threshold): 0
+....Rejected (contour msl): 98
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-03 19:00:00.. (skipping)
+..Time 1980-01-03 20:00:00.. (skipping)
+..Time 1980-01-03 21:00:00.. (skipping)
+..Time 1980-01-03 22:00:00.. (skipping)
+..Time 1980-01-03 23:00:00.. (skipping)
+..Time 1980-01-04 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7612
+....Rejected ( threshold): 0
+....Rejected (contour msl): 96
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 37
+....Done
+..Time 1980-01-04 01:00:00.. (skipping)
+..Time 1980-01-04 02:00:00.. (skipping)
+..Time 1980-01-04 03:00:00.. (skipping)
+..Time 1980-01-04 04:00:00.. (skipping)
+..Time 1980-01-04 05:00:00.. (skipping)
+..Time 1980-01-04 06:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8143
+....Rejected ( threshold): 0
+....Rejected (contour msl): 107
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-04 07:00:00.. (skipping)
+..Time 1980-01-04 08:00:00.. (skipping)
+..Time 1980-01-04 09:00:00.. (skipping)
+..Time 1980-01-04 10:00:00.. (skipping)
+..Time 1980-01-04 11:00:00.. (skipping)
+..Time 1980-01-04 12:00:00
+....Total candidates: 10
+....Rejected (  location): 0
+....Rejected (    merged): 8317
+....Rejected ( threshold): 0
+....Rejected (contour msl): 119
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-04 13:00:00.. (skipping)
+..Time 1980-01-04 14:00:00.. (skipping)
+..Time 1980-01-04 15:00:00.. (skipping)
+..Time 1980-01-04 16:00:00.. (skipping)
+..Time 1980-01-04 17:00:00.. (skipping)
+..Time 1980-01-04 18:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8085
+....Rejected ( threshold): 0
+....Rejected (contour msl): 116
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-04 19:00:00.. (skipping)
+..Time 1980-01-04 20:00:00.. (skipping)
+..Time 1980-01-04 21:00:00.. (skipping)
+..Time 1980-01-04 22:00:00.. (skipping)
+..Time 1980-01-04 23:00:00.. (skipping)
+..Time 1980-01-05 00:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8026
+....Rejected ( threshold): 0
+....Rejected (contour msl): 114
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-05 01:00:00.. (skipping)
+..Time 1980-01-05 02:00:00.. (skipping)
+..Time 1980-01-05 03:00:00.. (skipping)
+..Time 1980-01-05 04:00:00.. (skipping)
+..Time 1980-01-05 05:00:00.. (skipping)
+..Time 1980-01-05 06:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 7920
+....Rejected ( threshold): 0
+....Rejected (contour msl): 119
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 27
+....Done
+..Time 1980-01-05 07:00:00.. (skipping)
+..Time 1980-01-05 08:00:00.. (skipping)
+..Time 1980-01-05 09:00:00.. (skipping)
+..Time 1980-01-05 10:00:00.. (skipping)
+..Time 1980-01-05 11:00:00.. (skipping)
+..Time 1980-01-05 12:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 7821
+....Rejected ( threshold): 0
+....Rejected (contour msl): 130
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 28
+....Done
+..Time 1980-01-05 13:00:00.. (skipping)
+..Time 1980-01-05 14:00:00.. (skipping)
+..Time 1980-01-05 15:00:00.. (skipping)
+..Time 1980-01-05 16:00:00.. (skipping)
+..Time 1980-01-05 17:00:00.. (skipping)
+..Time 1980-01-05 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7728
+....Rejected ( threshold): 0
+....Rejected (contour msl): 100
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-05 19:00:00.. (skipping)
+..Time 1980-01-05 20:00:00.. (skipping)
+..Time 1980-01-05 21:00:00.. (skipping)
+..Time 1980-01-05 22:00:00.. (skipping)
+..Time 1980-01-05 23:00:00.. (skipping)
+..Time 1980-01-06 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7800
+....Rejected ( threshold): 0
+....Rejected (contour msl): 114
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 38
+....Done
+..Time 1980-01-06 01:00:00.. (skipping)
+..Time 1980-01-06 02:00:00.. (skipping)
+..Time 1980-01-06 03:00:00.. (skipping)
+..Time 1980-01-06 04:00:00.. (skipping)
+..Time 1980-01-06 05:00:00.. (skipping)
+..Time 1980-01-06 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8265
+....Rejected ( threshold): 0
+....Rejected (contour msl): 109
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-06 07:00:00.. (skipping)
+..Time 1980-01-06 08:00:00.. (skipping)
+..Time 1980-01-06 09:00:00.. (skipping)
+..Time 1980-01-06 10:00:00.. (skipping)
+..Time 1980-01-06 11:00:00.. (skipping)
+..Time 1980-01-06 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8267
+....Rejected ( threshold): 0
+....Rejected (contour msl): 113
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-06 13:00:00.. (skipping)
+..Time 1980-01-06 14:00:00.. (skipping)
+..Time 1980-01-06 15:00:00.. (skipping)
+..Time 1980-01-06 16:00:00.. (skipping)
+..Time 1980-01-06 17:00:00.. (skipping)
+..Time 1980-01-06 18:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7458
+....Rejected ( threshold): 0
+....Rejected (contour msl): 713
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-06 19:00:00.. (skipping)
+..Time 1980-01-06 20:00:00.. (skipping)
+..Time 1980-01-06 21:00:00.. (skipping)
+..Time 1980-01-06 22:00:00.. (skipping)
+..Time 1980-01-06 23:00:00.. (skipping)
+..Time 1980-01-07 00:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 7066
+....Rejected ( threshold): 0
+....Rejected (contour msl): 819
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-07 01:00:00.. (skipping)
+..Time 1980-01-07 02:00:00.. (skipping)
+..Time 1980-01-07 03:00:00.. (skipping)
+..Time 1980-01-07 04:00:00.. (skipping)
+..Time 1980-01-07 05:00:00.. (skipping)
+..Time 1980-01-07 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7070
+....Rejected ( threshold): 0
+....Rejected (contour msl): 820
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-07 07:00:00.. (skipping)
+..Time 1980-01-07 08:00:00.. (skipping)
+..Time 1980-01-07 09:00:00.. (skipping)
+..Time 1980-01-07 10:00:00.. (skipping)
+..Time 1980-01-07 11:00:00.. (skipping)
+..Time 1980-01-07 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7065
+....Rejected ( threshold): 0
+....Rejected (contour msl): 811
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-07 13:00:00.. (skipping)
+..Time 1980-01-07 14:00:00.. (skipping)
+..Time 1980-01-07 15:00:00.. (skipping)
+..Time 1980-01-07 16:00:00.. (skipping)
+..Time 1980-01-07 17:00:00.. (skipping)
+..Time 1980-01-07 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7126
+....Rejected ( threshold): 0
+....Rejected (contour msl): 828
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-07 19:00:00.. (skipping)
+..Time 1980-01-07 20:00:00.. (skipping)
+..Time 1980-01-07 21:00:00.. (skipping)
+..Time 1980-01-07 22:00:00.. (skipping)
+..Time 1980-01-07 23:00:00.. (skipping)
+..Time 1980-01-08 00:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7014
+....Rejected ( threshold): 0
+....Rejected (contour msl): 850
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-08 01:00:00.. (skipping)
+..Time 1980-01-08 02:00:00.. (skipping)
+..Time 1980-01-08 03:00:00.. (skipping)
+..Time 1980-01-08 04:00:00.. (skipping)
+..Time 1980-01-08 05:00:00.. (skipping)
+..Time 1980-01-08 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 6761
+....Rejected ( threshold): 0
+....Rejected (contour msl): 875
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-08 07:00:00.. (skipping)
+..Time 1980-01-08 08:00:00.. (skipping)
+..Time 1980-01-08 09:00:00.. (skipping)
+..Time 1980-01-08 10:00:00.. (skipping)
+..Time 1980-01-08 11:00:00.. (skipping)
+..Time 1980-01-08 12:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 7566
+....Rejected ( threshold): 0
+....Rejected (contour msl): 871
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 28
+....Done
+..Time 1980-01-08 13:00:00.. (skipping)
+..Time 1980-01-08 14:00:00.. (skipping)
+..Time 1980-01-08 15:00:00.. (skipping)
+..Time 1980-01-08 16:00:00.. (skipping)
+..Time 1980-01-08 17:00:00.. (skipping)
+..Time 1980-01-08 18:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7398
+....Rejected ( threshold): 0
+....Rejected (contour msl): 833
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 38
+....Done
+..Time 1980-01-08 19:00:00.. (skipping)
+..Time 1980-01-08 20:00:00.. (skipping)
+..Time 1980-01-08 21:00:00.. (skipping)
+..Time 1980-01-08 22:00:00.. (skipping)
+..Time 1980-01-08 23:00:00.. (skipping)
+..Time 1980-01-09 00:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7958
+....Rejected ( threshold): 0
+....Rejected (contour msl): 128
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-09 01:00:00.. (skipping)
+..Time 1980-01-09 02:00:00.. (skipping)
+..Time 1980-01-09 03:00:00.. (skipping)
+..Time 1980-01-09 04:00:00.. (skipping)
+..Time 1980-01-09 05:00:00.. (skipping)
+..Time 1980-01-09 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7954
+....Rejected ( threshold): 0
+....Rejected (contour msl): 122
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 25
+....Done
+..Time 1980-01-09 07:00:00.. (skipping)
+..Time 1980-01-09 08:00:00.. (skipping)
+..Time 1980-01-09 09:00:00.. (skipping)
+..Time 1980-01-09 10:00:00.. (skipping)
+..Time 1980-01-09 11:00:00.. (skipping)
+..Time 1980-01-09 12:00:00
+....Total candidates: 2
+....Rejected (  location): 0
+....Rejected (    merged): 7951
+....Rejected ( threshold): 0
+....Rejected (contour msl): 117
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-09 13:00:00.. (skipping)
+..Time 1980-01-09 14:00:00.. (skipping)
+..Time 1980-01-09 15:00:00.. (skipping)
+..Time 1980-01-09 16:00:00.. (skipping)
+..Time 1980-01-09 17:00:00.. (skipping)
+..Time 1980-01-09 18:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8159
+....Rejected ( threshold): 0
+....Rejected (contour msl): 116
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-09 19:00:00.. (skipping)
+..Time 1980-01-09 20:00:00.. (skipping)
+..Time 1980-01-09 21:00:00.. (skipping)
+..Time 1980-01-09 22:00:00.. (skipping)
+..Time 1980-01-09 23:00:00.. (skipping)
+..Time 1980-01-10 00:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7494
+....Rejected ( threshold): 0
+....Rejected (contour msl): 857
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-10 01:00:00.. (skipping)
+..Time 1980-01-10 02:00:00.. (skipping)
+..Time 1980-01-10 03:00:00.. (skipping)
+..Time 1980-01-10 04:00:00.. (skipping)
+..Time 1980-01-10 05:00:00.. (skipping)
+..Time 1980-01-10 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7548
+....Rejected ( threshold): 0
+....Rejected (contour msl): 854
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-10 07:00:00.. (skipping)
+..Time 1980-01-10 08:00:00.. (skipping)
+..Time 1980-01-10 09:00:00.. (skipping)
+..Time 1980-01-10 10:00:00.. (skipping)
+..Time 1980-01-10 11:00:00.. (skipping)
+..Time 1980-01-10 12:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 7695
+....Rejected ( threshold): 0
+....Rejected (contour msl): 699
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-10 13:00:00.. (skipping)
+..Time 1980-01-10 14:00:00.. (skipping)
+..Time 1980-01-10 15:00:00.. (skipping)
+..Time 1980-01-10 16:00:00.. (skipping)
+..Time 1980-01-10 17:00:00.. (skipping)
+..Time 1980-01-10 18:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8248
+....Rejected ( threshold): 0
+....Rejected (contour msl): 120
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-10 19:00:00.. (skipping)
+..Time 1980-01-10 20:00:00.. (skipping)
+..Time 1980-01-10 21:00:00.. (skipping)
+..Time 1980-01-10 22:00:00.. (skipping)
+..Time 1980-01-10 23:00:00.. (skipping)
+..Time 1980-01-11 00:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 8284
+....Rejected ( threshold): 0
+....Rejected (contour msl): 105
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-11 01:00:00.. (skipping)
+..Time 1980-01-11 02:00:00.. (skipping)
+..Time 1980-01-11 03:00:00.. (skipping)
+..Time 1980-01-11 04:00:00.. (skipping)
+..Time 1980-01-11 05:00:00.. (skipping)
+..Time 1980-01-11 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8346
+....Rejected ( threshold): 0
+....Rejected (contour msl): 133
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 25
+....Done
+..Time 1980-01-11 07:00:00.. (skipping)
+..Time 1980-01-11 08:00:00.. (skipping)
+..Time 1980-01-11 09:00:00.. (skipping)
+..Time 1980-01-11 10:00:00.. (skipping)
+..Time 1980-01-11 11:00:00.. (skipping)
+..Time 1980-01-11 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8658
+....Rejected ( threshold): 0
+....Rejected (contour msl): 124
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-11 13:00:00.. (skipping)
+..Time 1980-01-11 14:00:00.. (skipping)
+..Time 1980-01-11 15:00:00.. (skipping)
+..Time 1980-01-11 16:00:00.. (skipping)
+..Time 1980-01-11 17:00:00.. (skipping)
+..Time 1980-01-11 18:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8205
+....Rejected ( threshold): 0
+....Rejected (contour msl): 123
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 25
+....Done
+..Time 1980-01-11 19:00:00.. (skipping)
+..Time 1980-01-11 20:00:00.. (skipping)
+..Time 1980-01-11 21:00:00.. (skipping)
+..Time 1980-01-11 22:00:00.. (skipping)
+..Time 1980-01-11 23:00:00.. (skipping)
+..Time 1980-01-12 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8176
+....Rejected ( threshold): 0
+....Rejected (contour msl): 110
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 30
+....Done
+..Time 1980-01-12 01:00:00.. (skipping)
+..Time 1980-01-12 02:00:00.. (skipping)
+..Time 1980-01-12 03:00:00.. (skipping)
+..Time 1980-01-12 04:00:00.. (skipping)
+..Time 1980-01-12 05:00:00.. (skipping)
+..Time 1980-01-12 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8302
+....Rejected ( threshold): 0
+....Rejected (contour msl): 114
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-12 07:00:00.. (skipping)
+..Time 1980-01-12 08:00:00.. (skipping)
+..Time 1980-01-12 09:00:00.. (skipping)
+..Time 1980-01-12 10:00:00.. (skipping)
+..Time 1980-01-12 11:00:00.. (skipping)
+..Time 1980-01-12 12:00:00
+....Total candidates: 1
+....Rejected (  location): 0
+....Rejected (    merged): 8300
+....Rejected ( threshold): 0
+....Rejected (contour msl): 109
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-12 13:00:00.. (skipping)
+..Time 1980-01-12 14:00:00.. (skipping)
+..Time 1980-01-12 15:00:00.. (skipping)
+..Time 1980-01-12 16:00:00.. (skipping)
+..Time 1980-01-12 17:00:00.. (skipping)
+..Time 1980-01-12 18:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8202
+....Rejected ( threshold): 0
+....Rejected (contour msl): 111
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-12 19:00:00.. (skipping)
+..Time 1980-01-12 20:00:00.. (skipping)
+..Time 1980-01-12 21:00:00.. (skipping)
+..Time 1980-01-12 22:00:00.. (skipping)
+..Time 1980-01-12 23:00:00.. (skipping)
+..Time 1980-01-13 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8180
+....Rejected ( threshold): 0
+....Rejected (contour msl): 117
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 28
+....Done
+..Time 1980-01-13 01:00:00.. (skipping)
+..Time 1980-01-13 02:00:00.. (skipping)
+..Time 1980-01-13 03:00:00.. (skipping)
+..Time 1980-01-13 04:00:00.. (skipping)
+..Time 1980-01-13 05:00:00.. (skipping)
+..Time 1980-01-13 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8412
+....Rejected ( threshold): 0
+....Rejected (contour msl): 129
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-13 07:00:00.. (skipping)
+..Time 1980-01-13 08:00:00.. (skipping)
+..Time 1980-01-13 09:00:00.. (skipping)
+..Time 1980-01-13 10:00:00.. (skipping)
+..Time 1980-01-13 11:00:00.. (skipping)
+..Time 1980-01-13 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8828
+....Rejected ( threshold): 0
+....Rejected (contour msl): 126
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 24
+....Done
+..Time 1980-01-13 13:00:00.. (skipping)
+..Time 1980-01-13 14:00:00.. (skipping)
+..Time 1980-01-13 15:00:00.. (skipping)
+..Time 1980-01-13 16:00:00.. (skipping)
+..Time 1980-01-13 17:00:00.. (skipping)
+..Time 1980-01-13 18:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 8421
+....Rejected ( threshold): 0
+....Rejected (contour msl): 125
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-13 19:00:00.. (skipping)
+..Time 1980-01-13 20:00:00.. (skipping)
+..Time 1980-01-13 21:00:00.. (skipping)
+..Time 1980-01-13 22:00:00.. (skipping)
+..Time 1980-01-13 23:00:00.. (skipping)
+..Time 1980-01-14 00:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8779
+....Rejected ( threshold): 0
+....Rejected (contour msl): 124
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-14 01:00:00.. (skipping)
+..Time 1980-01-14 02:00:00.. (skipping)
+..Time 1980-01-14 03:00:00.. (skipping)
+..Time 1980-01-14 04:00:00.. (skipping)
+..Time 1980-01-14 05:00:00.. (skipping)
+..Time 1980-01-14 06:00:00
+....Total candidates: 9
+....Rejected (  location): 0
+....Rejected (    merged): 8583
+....Rejected ( threshold): 0
+....Rejected (contour msl): 110
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-14 07:00:00.. (skipping)
+..Time 1980-01-14 08:00:00.. (skipping)
+..Time 1980-01-14 09:00:00.. (skipping)
+..Time 1980-01-14 10:00:00.. (skipping)
+..Time 1980-01-14 11:00:00.. (skipping)
+..Time 1980-01-14 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8494
+....Rejected ( threshold): 0
+....Rejected (contour msl): 128
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 37
+....Done
+..Time 1980-01-14 13:00:00.. (skipping)
+..Time 1980-01-14 14:00:00.. (skipping)
+..Time 1980-01-14 15:00:00.. (skipping)
+..Time 1980-01-14 16:00:00.. (skipping)
+..Time 1980-01-14 17:00:00.. (skipping)
+..Time 1980-01-14 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8314
+....Rejected ( threshold): 0
+....Rejected (contour msl): 115
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-14 19:00:00.. (skipping)
+..Time 1980-01-14 20:00:00.. (skipping)
+..Time 1980-01-14 21:00:00.. (skipping)
+..Time 1980-01-14 22:00:00.. (skipping)
+..Time 1980-01-14 23:00:00.. (skipping)
+..Time 1980-01-15 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8071
+....Rejected ( threshold): 0
+....Rejected (contour msl): 116
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-15 01:00:00.. (skipping)
+..Time 1980-01-15 02:00:00.. (skipping)
+..Time 1980-01-15 03:00:00.. (skipping)
+..Time 1980-01-15 04:00:00.. (skipping)
+..Time 1980-01-15 05:00:00.. (skipping)
+..Time 1980-01-15 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8093
+....Rejected ( threshold): 0
+....Rejected (contour msl): 106
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-15 07:00:00.. (skipping)
+..Time 1980-01-15 08:00:00.. (skipping)
+..Time 1980-01-15 09:00:00.. (skipping)
+..Time 1980-01-15 10:00:00.. (skipping)
+..Time 1980-01-15 11:00:00.. (skipping)
+..Time 1980-01-15 12:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7735
+....Rejected ( threshold): 0
+....Rejected (contour msl): 654
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-15 13:00:00.. (skipping)
+..Time 1980-01-15 14:00:00.. (skipping)
+..Time 1980-01-15 15:00:00.. (skipping)
+..Time 1980-01-15 16:00:00.. (skipping)
+..Time 1980-01-15 17:00:00.. (skipping)
+..Time 1980-01-15 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7640
+....Rejected ( threshold): 0
+....Rejected (contour msl): 756
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-15 19:00:00.. (skipping)
+..Time 1980-01-15 20:00:00.. (skipping)
+..Time 1980-01-15 21:00:00.. (skipping)
+..Time 1980-01-15 22:00:00.. (skipping)
+..Time 1980-01-15 23:00:00.. (skipping)
+..Time 1980-01-16 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8483
+....Rejected ( threshold): 0
+....Rejected (contour msl): 92
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-16 01:00:00.. (skipping)
+..Time 1980-01-16 02:00:00.. (skipping)
+..Time 1980-01-16 03:00:00.. (skipping)
+..Time 1980-01-16 04:00:00.. (skipping)
+..Time 1980-01-16 05:00:00.. (skipping)
+..Time 1980-01-16 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8483
+....Rejected ( threshold): 0
+....Rejected (contour msl): 120
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 30
+....Done
+..Time 1980-01-16 07:00:00.. (skipping)
+..Time 1980-01-16 08:00:00.. (skipping)
+..Time 1980-01-16 09:00:00.. (skipping)
+..Time 1980-01-16 10:00:00.. (skipping)
+..Time 1980-01-16 11:00:00.. (skipping)
+..Time 1980-01-16 12:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 8420
+....Rejected ( threshold): 0
+....Rejected (contour msl): 128
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-16 13:00:00.. (skipping)
+..Time 1980-01-16 14:00:00.. (skipping)
+..Time 1980-01-16 15:00:00.. (skipping)
+..Time 1980-01-16 16:00:00.. (skipping)
+..Time 1980-01-16 17:00:00.. (skipping)
+..Time 1980-01-16 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8129
+....Rejected ( threshold): 0
+....Rejected (contour msl): 839
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-16 19:00:00.. (skipping)
+..Time 1980-01-16 20:00:00.. (skipping)
+..Time 1980-01-16 21:00:00.. (skipping)
+..Time 1980-01-16 22:00:00.. (skipping)
+..Time 1980-01-16 23:00:00.. (skipping)
+..Time 1980-01-17 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8249
+....Rejected ( threshold): 0
+....Rejected (contour msl): 111
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-17 01:00:00.. (skipping)
+..Time 1980-01-17 02:00:00.. (skipping)
+..Time 1980-01-17 03:00:00.. (skipping)
+..Time 1980-01-17 04:00:00.. (skipping)
+..Time 1980-01-17 05:00:00.. (skipping)
+..Time 1980-01-17 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8836
+....Rejected ( threshold): 0
+....Rejected (contour msl): 121
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-17 07:00:00.. (skipping)
+..Time 1980-01-17 08:00:00.. (skipping)
+..Time 1980-01-17 09:00:00.. (skipping)
+..Time 1980-01-17 10:00:00.. (skipping)
+..Time 1980-01-17 11:00:00.. (skipping)
+..Time 1980-01-17 12:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8557
+....Rejected ( threshold): 0
+....Rejected (contour msl): 107
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-17 13:00:00.. (skipping)
+..Time 1980-01-17 14:00:00.. (skipping)
+..Time 1980-01-17 15:00:00.. (skipping)
+..Time 1980-01-17 16:00:00.. (skipping)
+..Time 1980-01-17 17:00:00.. (skipping)
+..Time 1980-01-17 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7955
+....Rejected ( threshold): 0
+....Rejected (contour msl): 837
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-17 19:00:00.. (skipping)
+..Time 1980-01-17 20:00:00.. (skipping)
+..Time 1980-01-17 21:00:00.. (skipping)
+..Time 1980-01-17 22:00:00.. (skipping)
+..Time 1980-01-17 23:00:00.. (skipping)
+..Time 1980-01-18 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7525
+....Rejected ( threshold): 0
+....Rejected (contour msl): 843
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-18 01:00:00.. (skipping)
+..Time 1980-01-18 02:00:00.. (skipping)
+..Time 1980-01-18 03:00:00.. (skipping)
+..Time 1980-01-18 04:00:00.. (skipping)
+..Time 1980-01-18 05:00:00.. (skipping)
+..Time 1980-01-18 06:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 8624
+....Rejected ( threshold): 0
+....Rejected (contour msl): 117
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-18 07:00:00.. (skipping)
+..Time 1980-01-18 08:00:00.. (skipping)
+..Time 1980-01-18 09:00:00.. (skipping)
+..Time 1980-01-18 10:00:00.. (skipping)
+..Time 1980-01-18 11:00:00.. (skipping)
+..Time 1980-01-18 12:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8581
+....Rejected ( threshold): 0
+....Rejected (contour msl): 115
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-18 13:00:00.. (skipping)
+..Time 1980-01-18 14:00:00.. (skipping)
+..Time 1980-01-18 15:00:00.. (skipping)
+..Time 1980-01-18 16:00:00.. (skipping)
+..Time 1980-01-18 17:00:00.. (skipping)
+..Time 1980-01-18 18:00:00
+....Total candidates: 2
+....Rejected (  location): 0
+....Rejected (    merged): 8594
+....Rejected ( threshold): 0
+....Rejected (contour msl): 115
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-18 19:00:00.. (skipping)
+..Time 1980-01-18 20:00:00.. (skipping)
+..Time 1980-01-18 21:00:00.. (skipping)
+..Time 1980-01-18 22:00:00.. (skipping)
+..Time 1980-01-18 23:00:00.. (skipping)
+..Time 1980-01-19 00:00:00
+....Total candidates: 2
+....Rejected (  location): 0
+....Rejected (    merged): 8680
+....Rejected ( threshold): 0
+....Rejected (contour msl): 120
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-19 01:00:00.. (skipping)
+..Time 1980-01-19 02:00:00.. (skipping)
+..Time 1980-01-19 03:00:00.. (skipping)
+..Time 1980-01-19 04:00:00.. (skipping)
+..Time 1980-01-19 05:00:00.. (skipping)
+..Time 1980-01-19 06:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 8533
+....Rejected ( threshold): 0
+....Rejected (contour msl): 119
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-19 07:00:00.. (skipping)
+..Time 1980-01-19 08:00:00.. (skipping)
+..Time 1980-01-19 09:00:00.. (skipping)
+..Time 1980-01-19 10:00:00.. (skipping)
+..Time 1980-01-19 11:00:00.. (skipping)
+..Time 1980-01-19 12:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 8841
+....Rejected ( threshold): 0
+....Rejected (contour msl): 125
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-19 13:00:00.. (skipping)
+..Time 1980-01-19 14:00:00.. (skipping)
+..Time 1980-01-19 15:00:00.. (skipping)
+..Time 1980-01-19 16:00:00.. (skipping)
+..Time 1980-01-19 17:00:00.. (skipping)
+..Time 1980-01-19 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8645
+....Rejected ( threshold): 0
+....Rejected (contour msl): 107
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 40
+....Done
+..Time 1980-01-19 19:00:00.. (skipping)
+..Time 1980-01-19 20:00:00.. (skipping)
+..Time 1980-01-19 21:00:00.. (skipping)
+..Time 1980-01-19 22:00:00.. (skipping)
+..Time 1980-01-19 23:00:00.. (skipping)
+..Time 1980-01-20 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7655
+....Rejected ( threshold): 0
+....Rejected (contour msl): 823
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-20 01:00:00.. (skipping)
+..Time 1980-01-20 02:00:00.. (skipping)
+..Time 1980-01-20 03:00:00.. (skipping)
+..Time 1980-01-20 04:00:00.. (skipping)
+..Time 1980-01-20 05:00:00.. (skipping)
+..Time 1980-01-20 06:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 8079
+....Rejected ( threshold): 0
+....Rejected (contour msl): 820
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-20 07:00:00.. (skipping)
+..Time 1980-01-20 08:00:00.. (skipping)
+..Time 1980-01-20 09:00:00.. (skipping)
+..Time 1980-01-20 10:00:00.. (skipping)
+..Time 1980-01-20 11:00:00.. (skipping)
+..Time 1980-01-20 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7929
+....Rejected ( threshold): 0
+....Rejected (contour msl): 824
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-20 13:00:00.. (skipping)
+..Time 1980-01-20 14:00:00.. (skipping)
+..Time 1980-01-20 15:00:00.. (skipping)
+..Time 1980-01-20 16:00:00.. (skipping)
+..Time 1980-01-20 17:00:00.. (skipping)
+..Time 1980-01-20 18:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 7916
+....Rejected ( threshold): 0
+....Rejected (contour msl): 831
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-20 19:00:00.. (skipping)
+..Time 1980-01-20 20:00:00.. (skipping)
+..Time 1980-01-20 21:00:00.. (skipping)
+..Time 1980-01-20 22:00:00.. (skipping)
+..Time 1980-01-20 23:00:00.. (skipping)
+..Time 1980-01-21 00:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 7640
+....Rejected ( threshold): 0
+....Rejected (contour msl): 838
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 28
+....Done
+..Time 1980-01-21 01:00:00.. (skipping)
+..Time 1980-01-21 02:00:00.. (skipping)
+..Time 1980-01-21 03:00:00.. (skipping)
+..Time 1980-01-21 04:00:00.. (skipping)
+..Time 1980-01-21 05:00:00.. (skipping)
+..Time 1980-01-21 06:00:00
+....Total candidates: 11
+....Rejected (  location): 0
+....Rejected (    merged): 8109
+....Rejected ( threshold): 0
+....Rejected (contour msl): 851
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 24
+....Done
+..Time 1980-01-21 07:00:00.. (skipping)
+..Time 1980-01-21 08:00:00.. (skipping)
+..Time 1980-01-21 09:00:00.. (skipping)
+..Time 1980-01-21 10:00:00.. (skipping)
+..Time 1980-01-21 11:00:00.. (skipping)
+..Time 1980-01-21 12:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8150
+....Rejected ( threshold): 0
+....Rejected (contour msl): 821
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 27
+....Done
+..Time 1980-01-21 13:00:00.. (skipping)
+..Time 1980-01-21 14:00:00.. (skipping)
+..Time 1980-01-21 15:00:00.. (skipping)
+..Time 1980-01-21 16:00:00.. (skipping)
+..Time 1980-01-21 17:00:00.. (skipping)
+..Time 1980-01-21 18:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8331
+....Rejected ( threshold): 0
+....Rejected (contour msl): 849
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-21 19:00:00.. (skipping)
+..Time 1980-01-21 20:00:00.. (skipping)
+..Time 1980-01-21 21:00:00.. (skipping)
+..Time 1980-01-21 22:00:00.. (skipping)
+..Time 1980-01-21 23:00:00.. (skipping)
+..Time 1980-01-22 00:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7840
+....Rejected ( threshold): 0
+....Rejected (contour msl): 880
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-22 01:00:00.. (skipping)
+..Time 1980-01-22 02:00:00.. (skipping)
+..Time 1980-01-22 03:00:00.. (skipping)
+..Time 1980-01-22 04:00:00.. (skipping)
+..Time 1980-01-22 05:00:00.. (skipping)
+..Time 1980-01-22 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7759
+....Rejected ( threshold): 0
+....Rejected (contour msl): 905
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-22 07:00:00.. (skipping)
+..Time 1980-01-22 08:00:00.. (skipping)
+..Time 1980-01-22 09:00:00.. (skipping)
+..Time 1980-01-22 10:00:00.. (skipping)
+..Time 1980-01-22 11:00:00.. (skipping)
+..Time 1980-01-22 12:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7896
+....Rejected ( threshold): 0
+....Rejected (contour msl): 884
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-22 13:00:00.. (skipping)
+..Time 1980-01-22 14:00:00.. (skipping)
+..Time 1980-01-22 15:00:00.. (skipping)
+..Time 1980-01-22 16:00:00.. (skipping)
+..Time 1980-01-22 17:00:00.. (skipping)
+..Time 1980-01-22 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7720
+....Rejected ( threshold): 0
+....Rejected (contour msl): 856
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-22 19:00:00.. (skipping)
+..Time 1980-01-22 20:00:00.. (skipping)
+..Time 1980-01-22 21:00:00.. (skipping)
+..Time 1980-01-22 22:00:00.. (skipping)
+..Time 1980-01-22 23:00:00.. (skipping)
+..Time 1980-01-23 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 6999
+....Rejected ( threshold): 0
+....Rejected (contour msl): 865
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-23 01:00:00.. (skipping)
+..Time 1980-01-23 02:00:00.. (skipping)
+..Time 1980-01-23 03:00:00.. (skipping)
+..Time 1980-01-23 04:00:00.. (skipping)
+..Time 1980-01-23 05:00:00.. (skipping)
+..Time 1980-01-23 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7137
+....Rejected ( threshold): 0
+....Rejected (contour msl): 855
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-23 07:00:00.. (skipping)
+..Time 1980-01-23 08:00:00.. (skipping)
+..Time 1980-01-23 09:00:00.. (skipping)
+..Time 1980-01-23 10:00:00.. (skipping)
+..Time 1980-01-23 11:00:00.. (skipping)
+..Time 1980-01-23 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8402
+....Rejected ( threshold): 0
+....Rejected (contour msl): 112
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-23 13:00:00.. (skipping)
+..Time 1980-01-23 14:00:00.. (skipping)
+..Time 1980-01-23 15:00:00.. (skipping)
+..Time 1980-01-23 16:00:00.. (skipping)
+..Time 1980-01-23 17:00:00.. (skipping)
+..Time 1980-01-23 18:00:00
+....Total candidates: 3
+....Rejected (  location): 0
+....Rejected (    merged): 7929
+....Rejected ( threshold): 0
+....Rejected (contour msl): 110
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 40
+....Done
+..Time 1980-01-23 19:00:00.. (skipping)
+..Time 1980-01-23 20:00:00.. (skipping)
+..Time 1980-01-23 21:00:00.. (skipping)
+..Time 1980-01-23 22:00:00.. (skipping)
+..Time 1980-01-23 23:00:00.. (skipping)
+..Time 1980-01-24 00:00:00
+....Total candidates: 10
+....Rejected (  location): 0
+....Rejected (    merged): 8354
+....Rejected ( threshold): 0
+....Rejected (contour msl): 106
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 42
+....Done
+..Time 1980-01-24 01:00:00.. (skipping)
+..Time 1980-01-24 02:00:00.. (skipping)
+..Time 1980-01-24 03:00:00.. (skipping)
+..Time 1980-01-24 04:00:00.. (skipping)
+..Time 1980-01-24 05:00:00.. (skipping)
+..Time 1980-01-24 06:00:00
+....Total candidates: 9
+....Rejected (  location): 0
+....Rejected (    merged): 8107
+....Rejected ( threshold): 0
+....Rejected (contour msl): 119
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-24 07:00:00.. (skipping)
+..Time 1980-01-24 08:00:00.. (skipping)
+..Time 1980-01-24 09:00:00.. (skipping)
+..Time 1980-01-24 10:00:00.. (skipping)
+..Time 1980-01-24 11:00:00.. (skipping)
+..Time 1980-01-24 12:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 8434
+....Rejected ( threshold): 0
+....Rejected (contour msl): 126
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-24 13:00:00.. (skipping)
+..Time 1980-01-24 14:00:00.. (skipping)
+..Time 1980-01-24 15:00:00.. (skipping)
+..Time 1980-01-24 16:00:00.. (skipping)
+..Time 1980-01-24 17:00:00.. (skipping)
+..Time 1980-01-24 18:00:00
+....Total candidates: 10
+....Rejected (  location): 0
+....Rejected (    merged): 7684
+....Rejected ( threshold): 0
+....Rejected (contour msl): 854
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 30
+....Done
+..Time 1980-01-24 19:00:00.. (skipping)
+..Time 1980-01-24 20:00:00.. (skipping)
+..Time 1980-01-24 21:00:00.. (skipping)
+..Time 1980-01-24 22:00:00.. (skipping)
+..Time 1980-01-24 23:00:00.. (skipping)
+..Time 1980-01-25 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7229
+....Rejected ( threshold): 0
+....Rejected (contour msl): 852
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 39
+....Done
+..Time 1980-01-25 01:00:00.. (skipping)
+..Time 1980-01-25 02:00:00.. (skipping)
+..Time 1980-01-25 03:00:00.. (skipping)
+..Time 1980-01-25 04:00:00.. (skipping)
+..Time 1980-01-25 05:00:00.. (skipping)
+..Time 1980-01-25 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7196
+....Rejected ( threshold): 0
+....Rejected (contour msl): 853
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 37
+....Done
+..Time 1980-01-25 07:00:00.. (skipping)
+..Time 1980-01-25 08:00:00.. (skipping)
+..Time 1980-01-25 09:00:00.. (skipping)
+..Time 1980-01-25 10:00:00.. (skipping)
+..Time 1980-01-25 11:00:00.. (skipping)
+..Time 1980-01-25 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7410
+....Rejected ( threshold): 0
+....Rejected (contour msl): 822
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 29
+....Done
+..Time 1980-01-25 13:00:00.. (skipping)
+..Time 1980-01-25 14:00:00.. (skipping)
+..Time 1980-01-25 15:00:00.. (skipping)
+..Time 1980-01-25 16:00:00.. (skipping)
+..Time 1980-01-25 17:00:00.. (skipping)
+..Time 1980-01-25 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7340
+....Rejected ( threshold): 0
+....Rejected (contour msl): 841
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 36
+....Done
+..Time 1980-01-25 19:00:00.. (skipping)
+..Time 1980-01-25 20:00:00.. (skipping)
+..Time 1980-01-25 21:00:00.. (skipping)
+..Time 1980-01-25 22:00:00.. (skipping)
+..Time 1980-01-25 23:00:00.. (skipping)
+..Time 1980-01-26 00:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 6934
+....Rejected ( threshold): 0
+....Rejected (contour msl): 861
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 32
+....Done
+..Time 1980-01-26 01:00:00.. (skipping)
+..Time 1980-01-26 02:00:00.. (skipping)
+..Time 1980-01-26 03:00:00.. (skipping)
+..Time 1980-01-26 04:00:00.. (skipping)
+..Time 1980-01-26 05:00:00.. (skipping)
+..Time 1980-01-26 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7033
+....Rejected ( threshold): 0
+....Rejected (contour msl): 842
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-26 07:00:00.. (skipping)
+..Time 1980-01-26 08:00:00.. (skipping)
+..Time 1980-01-26 09:00:00.. (skipping)
+..Time 1980-01-26 10:00:00.. (skipping)
+..Time 1980-01-26 11:00:00.. (skipping)
+..Time 1980-01-26 12:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7403
+....Rejected ( threshold): 0
+....Rejected (contour msl): 844
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 30
+....Done
+..Time 1980-01-26 13:00:00.. (skipping)
+..Time 1980-01-26 14:00:00.. (skipping)
+..Time 1980-01-26 15:00:00.. (skipping)
+..Time 1980-01-26 16:00:00.. (skipping)
+..Time 1980-01-26 17:00:00.. (skipping)
+..Time 1980-01-26 18:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 7007
+....Rejected ( threshold): 0
+....Rejected (contour msl): 857
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 38
+....Done
+..Time 1980-01-26 19:00:00.. (skipping)
+..Time 1980-01-26 20:00:00.. (skipping)
+..Time 1980-01-26 21:00:00.. (skipping)
+..Time 1980-01-26 22:00:00.. (skipping)
+..Time 1980-01-26 23:00:00.. (skipping)
+..Time 1980-01-27 00:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7732
+....Rejected ( threshold): 0
+....Rejected (contour msl): 127
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 40
+....Done
+..Time 1980-01-27 01:00:00.. (skipping)
+..Time 1980-01-27 02:00:00.. (skipping)
+..Time 1980-01-27 03:00:00.. (skipping)
+..Time 1980-01-27 04:00:00.. (skipping)
+..Time 1980-01-27 05:00:00.. (skipping)
+..Time 1980-01-27 06:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7999
+....Rejected ( threshold): 0
+....Rejected (contour msl): 121
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 46
+....Done
+..Time 1980-01-27 07:00:00.. (skipping)
+..Time 1980-01-27 08:00:00.. (skipping)
+..Time 1980-01-27 09:00:00.. (skipping)
+..Time 1980-01-27 10:00:00.. (skipping)
+..Time 1980-01-27 11:00:00.. (skipping)
+..Time 1980-01-27 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8359
+....Rejected ( threshold): 0
+....Rejected (contour msl): 124
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-27 13:00:00.. (skipping)
+..Time 1980-01-27 14:00:00.. (skipping)
+..Time 1980-01-27 15:00:00.. (skipping)
+..Time 1980-01-27 16:00:00.. (skipping)
+..Time 1980-01-27 17:00:00.. (skipping)
+..Time 1980-01-27 18:00:00
+....Total candidates: 1
+....Rejected (  location): 0
+....Rejected (    merged): 8051
+....Rejected ( threshold): 0
+....Rejected (contour msl): 104
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 40
+....Done
+..Time 1980-01-27 19:00:00.. (skipping)
+..Time 1980-01-27 20:00:00.. (skipping)
+..Time 1980-01-27 21:00:00.. (skipping)
+..Time 1980-01-27 22:00:00.. (skipping)
+..Time 1980-01-27 23:00:00.. (skipping)
+..Time 1980-01-28 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8004
+....Rejected ( threshold): 0
+....Rejected (contour msl): 113
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 38
+....Done
+..Time 1980-01-28 01:00:00.. (skipping)
+..Time 1980-01-28 02:00:00.. (skipping)
+..Time 1980-01-28 03:00:00.. (skipping)
+..Time 1980-01-28 04:00:00.. (skipping)
+..Time 1980-01-28 05:00:00.. (skipping)
+..Time 1980-01-28 06:00:00
+....Total candidates: 10
+....Rejected (  location): 0
+....Rejected (    merged): 7938
+....Rejected ( threshold): 0
+....Rejected (contour msl): 107
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-28 07:00:00.. (skipping)
+..Time 1980-01-28 08:00:00.. (skipping)
+..Time 1980-01-28 09:00:00.. (skipping)
+..Time 1980-01-28 10:00:00.. (skipping)
+..Time 1980-01-28 11:00:00.. (skipping)
+..Time 1980-01-28 12:00:00
+....Total candidates: 8
+....Rejected (  location): 0
+....Rejected (    merged): 8146
+....Rejected ( threshold): 0
+....Rejected (contour msl): 114
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-28 13:00:00.. (skipping)
+..Time 1980-01-28 14:00:00.. (skipping)
+..Time 1980-01-28 15:00:00.. (skipping)
+..Time 1980-01-28 16:00:00.. (skipping)
+..Time 1980-01-28 17:00:00.. (skipping)
+..Time 1980-01-28 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7963
+....Rejected ( threshold): 0
+....Rejected (contour msl): 109
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 35
+....Done
+..Time 1980-01-28 19:00:00.. (skipping)
+..Time 1980-01-28 20:00:00.. (skipping)
+..Time 1980-01-28 21:00:00.. (skipping)
+..Time 1980-01-28 22:00:00.. (skipping)
+..Time 1980-01-28 23:00:00.. (skipping)
+..Time 1980-01-29 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 7869
+....Rejected ( threshold): 0
+....Rejected (contour msl): 130
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-29 01:00:00.. (skipping)
+..Time 1980-01-29 02:00:00.. (skipping)
+..Time 1980-01-29 03:00:00.. (skipping)
+..Time 1980-01-29 04:00:00.. (skipping)
+..Time 1980-01-29 05:00:00.. (skipping)
+..Time 1980-01-29 06:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 8312
+....Rejected ( threshold): 0
+....Rejected (contour msl): 126
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 34
+....Done
+..Time 1980-01-29 07:00:00.. (skipping)
+..Time 1980-01-29 08:00:00.. (skipping)
+..Time 1980-01-29 09:00:00.. (skipping)
+..Time 1980-01-29 10:00:00.. (skipping)
+..Time 1980-01-29 11:00:00.. (skipping)
+..Time 1980-01-29 12:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8302
+....Rejected ( threshold): 0
+....Rejected (contour msl): 129
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 26
+....Done
+..Time 1980-01-29 13:00:00.. (skipping)
+..Time 1980-01-29 14:00:00.. (skipping)
+..Time 1980-01-29 15:00:00.. (skipping)
+..Time 1980-01-29 16:00:00.. (skipping)
+..Time 1980-01-29 17:00:00.. (skipping)
+..Time 1980-01-29 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8286
+....Rejected ( threshold): 0
+....Rejected (contour msl): 113
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 44
+....Done
+..Time 1980-01-29 19:00:00.. (skipping)
+..Time 1980-01-29 20:00:00.. (skipping)
+..Time 1980-01-29 21:00:00.. (skipping)
+..Time 1980-01-29 22:00:00.. (skipping)
+..Time 1980-01-29 23:00:00.. (skipping)
+..Time 1980-01-30 00:00:00
+....Total candidates: 4
+....Rejected (  location): 0
+....Rejected (    merged): 8438
+....Rejected ( threshold): 0
+....Rejected (contour msl): 107
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 38
+....Done
+..Time 1980-01-30 01:00:00.. (skipping)
+..Time 1980-01-30 02:00:00.. (skipping)
+..Time 1980-01-30 03:00:00.. (skipping)
+..Time 1980-01-30 04:00:00.. (skipping)
+..Time 1980-01-30 05:00:00.. (skipping)
+..Time 1980-01-30 06:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 8641
+....Rejected ( threshold): 0
+....Rejected (contour msl): 137
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 33
+....Done
+..Time 1980-01-30 07:00:00.. (skipping)
+..Time 1980-01-30 08:00:00.. (skipping)
+..Time 1980-01-30 09:00:00.. (skipping)
+..Time 1980-01-30 10:00:00.. (skipping)
+..Time 1980-01-30 11:00:00.. (skipping)
+..Time 1980-01-30 12:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 9099
+....Rejected ( threshold): 0
+....Rejected (contour msl): 127
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 26
+....Done
+..Time 1980-01-30 13:00:00.. (skipping)
+..Time 1980-01-30 14:00:00.. (skipping)
+..Time 1980-01-30 15:00:00.. (skipping)
+..Time 1980-01-30 16:00:00.. (skipping)
+..Time 1980-01-30 17:00:00.. (skipping)
+..Time 1980-01-30 18:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8838
+....Rejected ( threshold): 0
+....Rejected (contour msl): 103
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 31
+....Done
+..Time 1980-01-30 19:00:00.. (skipping)
+..Time 1980-01-30 20:00:00.. (skipping)
+..Time 1980-01-30 21:00:00.. (skipping)
+..Time 1980-01-30 22:00:00.. (skipping)
+..Time 1980-01-30 23:00:00.. (skipping)
+..Time 1980-01-31 00:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 8386
+....Rejected ( threshold): 0
+....Rejected (contour msl): 117
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 27
+....Done
+..Time 1980-01-31 01:00:00.. (skipping)
+..Time 1980-01-31 02:00:00.. (skipping)
+..Time 1980-01-31 03:00:00.. (skipping)
+..Time 1980-01-31 04:00:00.. (skipping)
+..Time 1980-01-31 05:00:00.. (skipping)
+..Time 1980-01-31 06:00:00
+....Total candidates: 5
+....Rejected (  location): 0
+....Rejected (    merged): 7502
+....Rejected ( threshold): 0
+....Rejected (contour msl): 883
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 26
+....Done
+..Time 1980-01-31 07:00:00.. (skipping)
+..Time 1980-01-31 08:00:00.. (skipping)
+..Time 1980-01-31 09:00:00.. (skipping)
+..Time 1980-01-31 10:00:00.. (skipping)
+..Time 1980-01-31 11:00:00.. (skipping)
+..Time 1980-01-31 12:00:00
+....Total candidates: 7
+....Rejected (  location): 0
+....Rejected (    merged): 7482
+....Rejected ( threshold): 0
+....Rejected (contour msl): 876
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 27
+....Done
+..Time 1980-01-31 13:00:00.. (skipping)
+..Time 1980-01-31 14:00:00.. (skipping)
+..Time 1980-01-31 15:00:00.. (skipping)
+..Time 1980-01-31 16:00:00.. (skipping)
+..Time 1980-01-31 17:00:00.. (skipping)
+..Time 1980-01-31 18:00:00
+....Total candidates: 6
+....Rejected (  location): 0
+....Rejected (    merged): 7472
+....Rejected ( threshold): 0
+....Rejected (contour msl): 864
+....Rejected (contour _DIFF(z(300millibars),z(500millibars))): 26
+....Done
+..Time 1980-01-31 19:00:00.. (skipping)
+..Time 1980-01-31 20:00:00.. (skipping)
+..Time 1980-01-31 21:00:00.. (skipping)
+..Time 1980-01-31 22:00:00.. (skipping)
+..Time 1980-01-31 23:00:00.. (skipping)
