@@ -32,7 +32,7 @@ def get_GADI_ERAI(year=2019, parameter='psl', dataset='sfc'):
     if isinstance(year, int):
         year = [year]
 
-	# ERA-Interim on ub04
+    # ERA-Interim on ub04
     parent_dir = f"/g/data/ub4/erai/netcdf/6hr/atmos/oper_an_{dataset}/v01/{parameter}"
     pattern = f"{parameter}_6hrs_ERAI_historical_an-{dataset}_*.nc"
     full_pattern = os.path.join(parent_dir, pattern)
