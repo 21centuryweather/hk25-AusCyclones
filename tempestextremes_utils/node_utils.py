@@ -30,6 +30,7 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
                             "--lonname",f"{lonname}",
                             "--logdir",f"{logdir}",
                             ]
+    print(*detectNode_command)
     
     detectNode_process = subprocess.Popen(detectNode_command,
                                           stdout=subprocess.PIPE, 

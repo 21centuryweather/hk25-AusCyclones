@@ -1,6 +1,0 @@
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800101-19800131.txt
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800201-19800229.txt
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800301-19800331.txt
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800401-19800430.txt
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800501-19800531.txt
-/g/data/gb02/cj0591/hk25-AusCyclones/out/detectNode_TC_era5_19800601-19800630.txt
