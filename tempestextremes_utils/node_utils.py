@@ -4,18 +4,34 @@ import subprocess
 def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
                     detect_var="msl",
                     merge_dist=6.0,
+                    bounds=None,
                     closedcontour_commands="msl,200.0,5.5,0;_DIFF(z(300millibars),z(500millibars)),-58.8,6.5,1.0",
                     output_commands="msl,min,0;_VECMAG(u10,v10),max,2.0;zs,min,0",
                     timeinterval="6hr",
                     lonname="longitude",latname="latitude",
                     logdir="./log/",
+                    regional=False,
                     quiet=False,
                     out_command_only=False):
-
-    """
+    
+    ''' Detect and track minimum based on TempestExtremes
     TC detection is based on warm-core criterion from Zarzycki and Ullrich (2017)
     https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL071606
-    """
+    
+    Parameters
+    ----------
+   
+    input_filelist : dtype str
+        String with a path to the textfile containing the input data required.
+    detect_filelist : dtype str
+        String with a path to the textfile containing the names of the detectNode output.
+    detect_var : dtype str
+        String with the variable to detect (must match ib the input netcdf file).
+    bounds : list (N=4), default=None.
+        a list containing the bounds of a bounding box to do detection in the form (minlon,maxlon,minlat,maxlat)
+    quiet : bool
+        *Optional*, default ``False``. If ``True``, progress information is suppressed.
+    '''
 
     # DetectNode command
     detectNode_command = ["mpirun", "-np", f"{int(mpi_np)}",
@@ -31,6 +47,11 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
                             "--lonname",f"{lonname}",
                             "--logdir",f"{logdir}",
                             ]
+    if regional:
+        detectNode_command=detectNode_command+["--regional"]
+    if bounds is not None:
+        detectNode_command=detectNode_command+[f"--minlon {bounds[0]} --maxlon {bounds[1]} --minlat {bounds[2]} --maxlat {bounds[3]}"]
+    
     print(*detectNode_command)
     
     if not out_command_only:
