@@ -31,9 +31,13 @@ def create_Node_dirstruct(runpath,casename):
     #### Create the case directory ####
     create_directory(runpath+casename)
     #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/detectBlobs')
-    #### Create the stitchBlobs directory ####
-    create_directory(runpath+casename+'/stitchBlobs')
-    #### Create the statBlobs directory ####
-    create_directory(runpath+casename+'/statBlobs')
+    create_directory(runpath+casename+'/csv')
+    #### Create the detectBlobs directory ####
+    create_directory(runpath+casename+'/log')
+    #### Create the detectBlobs directory ####
+    create_directory(runpath+casename+'/in')
+    #### Create the detectBlobs directory ####
+    create_directory(runpath+casename+'/out')
+    #### Create the detectBlobs directory ####
+    create_directory(runpath+casename+'/temp')
 
