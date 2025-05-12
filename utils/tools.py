@@ -27,3 +27,13 @@ def write_to_filelist(infilenames,outfile):
 def clear_dir(dir):
     subprocess.run(f'rm -f {dir}/*', shell=True, check=True)
 
+def create_Node_dirstruct(runpath,casename):
+    #### Create the case directory ####
+    create_directory(runpath+casename)
+    #### Create the detectBlobs directory ####
+    create_directory(runpath+casename+'/detectBlobs')
+    #### Create the stitchBlobs directory ####
+    create_directory(runpath+casename+'/stitchBlobs')
+    #### Create the statBlobs directory ####
+    create_directory(runpath+casename+'/statBlobs')
+
