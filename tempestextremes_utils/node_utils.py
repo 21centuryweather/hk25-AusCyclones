@@ -25,6 +25,8 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
         String with a path to the textfile containing the input data required.
     detect_filelist : dtype str
         String with a path to the textfile containing the names of the detectNode output.
+    mpi_np : dtype int
+        Number of cores used in the calculation, given to mpi command.
     detect_var : dtype str
         String with the variable to detect (must match ib the input netcdf file).
     bounds : list (N=4), default=None.
