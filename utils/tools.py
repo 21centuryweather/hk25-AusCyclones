@@ -26,18 +26,55 @@ def write_to_filelist(infilenames,outfile):
 
 def clear_dir(dir):
     subprocess.run(f'rm -f {dir}/*', shell=True, check=True)
+    
+# Create a single directory
+def create_directory(dir_name):
+    try:
+        os.mkdir(dir_name)
+        print(f"Directory '{dir_name}' created successfully.")
+    except FileExistsError:
+        print(f"Directory '{dir_name}' already exists.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 def create_Node_dirstruct(runpath,casename):
     #### Create the case directory ####
     create_directory(runpath+casename)
     #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/csv')
-    #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/log')
-    #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/in')
-    #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/out')
-    #### Create the detectBlobs directory ####
-    create_directory(runpath+casename+'/temp')
+    create_directory(runpath+casename+'/input')
+    #### Create the detectNodes directory ####
+    create_directory(runpath+casename+'/detectNodes')
+    #### Create the detectNodes directory ####
+    create_directory(runpath+casename+'/stitchNodes')
+    
+    return runpath+casename, runpath+casename+'/input', runpath+casename+'/detectNodes', runpath+casename+'/stitchNodes'
+    
 
+from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta
+
+def generate_datetimes_months(start_date, end_date, interval=1):
+
+    # Create a list to store the datetimes
+    date_list = []
+
+    # Loop to generate datetimes at the specified interval
+    current_date = start_date
+    while current_date <= end_date:
+        date_list.append(current_date)
+        current_date += relativedelta(months=interval)
+
+    return date_list
+
+def generate_datetimes(start_date, end_date, interval=1):
+
+    # Create a list to store the datetimes
+    date_list = []
+
+    # Loop to generate datetimes at the specified interval
+    current_date = start_date
+    while current_date <= end_date:
+        date_list.append(current_date)
+        current_date += relativedelta(hours=interval)
+
+    return date_list

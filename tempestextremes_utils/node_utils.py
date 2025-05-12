@@ -9,7 +9,8 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
                     timeinterval="6hr",
                     lonname="longitude",latname="latitude",
                     logdir="./log/",
-                    quiet=False):
+                    quiet=False,
+                    out_command_only=False):
 
     """
     TC detection is based on warm-core criterion from Zarzycki and Ullrich (2017)
@@ -22,32 +23,33 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
                             "--in_data_list",f"{input_filelist}",
                             "--out_file_list", f"{detect_filelist}",
                             "--searchbymin",f"{detect_var}",
-                            "--closedcontourcmd",f"{closedcontour_commands}",
+                            "--closedcontourcmd",f"\"{closedcontour_commands}\"",
                             "--mergedist",f"{merge_dist}",
-                            "--outputcmd",f"{output_commands}",
-                            "--timefilter",f"{timeinterval}",
+                            "--outputcmd",f"\"{output_commands}\"",
+                            "--timefilter",f"\"{timeinterval}\"",
                             "--latname",f"{latname}",
                             "--lonname",f"{lonname}",
                             "--logdir",f"{logdir}",
                             ]
     print(*detectNode_command)
     
-    detectNode_process = subprocess.Popen(detectNode_command,
-                                          stdout=subprocess.PIPE, 
-                                          stderr=subprocess.PIPE, text=True)
-    
-    # Wait for the process to complete and capture output
-    stdout, stderr = detectNode_process.communicate()
+    if not out_command_only:
+        detectNode_process = subprocess.Popen(detectNode_command,
+                                              stdout=subprocess.PIPE, 
+                                              stderr=subprocess.PIPE, text=True)
 
-    path,_=os.path.split(input_filelist)
-    outfile=path+'/detectNodes_outlog.txt'
-    with open(outfile, 'w') as file:
-        file.write(stdout)
-    outfile=path+'/detectNodes_errlog.txt'
-    with open(outfile, 'w') as file:
-        file.write(stderr)
-    if not quiet:
-         return stdout, stderr
+        # Wait for the process to complete and capture output
+        stdout, stderr = detectNode_process.communicate()
+
+        path,_=os.path.split(input_filelist)
+        outfile=path+'/detectNodes_outlog.txt'
+        with open(outfile, 'w') as file:
+            file.write(stdout)
+        outfile=path+'/detectNodes_errlog.txt'
+        with open(outfile, 'w') as file:
+            file.write(stderr)
+        if not quiet:
+             return stdout, stderr
 
 def run_stitchNodes(input_filelist, stitch_file, mpi_np=1,
                     output_filefmt="csv",
@@ -57,35 +59,39 @@ def run_stitchNodes(input_filelist, stitch_file, mpi_np=1,
                     maxgap_time="24h",
                     min_endpoint_dist=12.0,
                     threshold_condition="wind,>=,10.0,10;lat,<=,50.0,10;lat,>=,-50.0,10;zs,<,150,10",
-                    quiet=False):
+                    quiet=False,
+                    out_command_only=False):
 
     # StitchNode command
     stitchNode_command = ["mpirun", "-np", f"{int(mpi_np)}",
                              f"{os.environ['TEMPESTEXTREMESDIR']}/StitchNodes",
                              "--in_list",f"{input_filelist}",
-                             "--in_fmt",f"{in_fmt_commands}",
+                             "--in_fmt",f"\"{in_fmt_commands}\"",
                              "--range",f"{range_dist}",
                              "--mintime",f"{minim_time}",
                              "--maxgap",f"{maxgap_time}",
-                             "--threshold",f"{threshold_condition}",
+                             "--threshold",f"\"{threshold_condition}\"",
                              "--min_endpoint_dist",f"{min_endpoint_dist}",
                              "--out_file_format",f"{output_filefmt}",
                              "--out", f"{stitch_file}"
                              ]
     
-    stitchNode_process = subprocess.Popen(stitchNode_command,
-                                          stdout=subprocess.PIPE, 
-                                          stderr=subprocess.PIPE, text=True)
+    print(*stitchNode_command)
     
-    # Wait for the process to complete and capture output
-    stdout, stderr = stitchNode_process.communicate()
+    if not out_command_only:
+        stitchNode_process = subprocess.Popen(stitchNode_command,
+                                              stdout=subprocess.PIPE, 
+                                              stderr=subprocess.PIPE, text=True)
 
-    path,_=os.path.split(input_filelist)
-    outfile=path+'/stitchNodes_outlog.txt'
-    with open(outfile, 'w') as file:
-        file.write(stdout)
-    outfile=path+'/stitchNodes_errlog.txt'
-    with open(outfile, 'w') as file:
-        file.write(stderr)
-    if not quiet:
-         return stdout, stderr
+        # Wait for the process to complete and capture output
+        stdout, stderr = stitchNode_process.communicate()
+
+        path,_=os.path.split(input_filelist)
+        outfile=path+'/stitchNodes_outlog.txt'
+        with open(outfile, 'w') as file:
+            file.write(stdout)
+        outfile=path+'/stitchNodes_errlog.txt'
+        with open(outfile, 'w') as file:
+            file.write(stderr)
+        if not quiet:
+             return stdout, stderr
