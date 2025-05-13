@@ -1,0 +1,2 @@
+/g/data/rt52/era5/pressure-levels/reanalysis/z/2022/z_era5_oper_pl_20221001-20221031.nc;/scratch/nf33/ad1803/hk25-AusCyclones/data/zs_era5_oper_sfc_invariant.nc;/g/data/rt52/era5/single-levels/reanalysis/msl/2022/msl_era5_oper_sfc_20221001-20221031.nc
+/g/data/rt52/era5/pressure-levels/reanalysis/z/2022/z_era5_oper_pl_20221101-20221130.nc;/scratch/nf33/ad1803/hk25-AusCyclones/data/zs_era5_oper_sfc_invariant.nc;/g/data/rt52/era5/single-levels/reanalysis/msl/2022/msl_era5_oper_sfc_20221101-20221130.nc

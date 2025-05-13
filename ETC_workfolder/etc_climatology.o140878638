@@ -1,0 +1,14 @@
+Complete
+
+======================================================================================
+                  Resource Usage on 2025-05-13 13:40:24:
+   Job Id:             140878638.gadi-pbs
+   Project:            nf33
+   Exit Status:        0
+   Service Units:      0.01
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 00:00:00        
+   Memory Requested:   12.0GB                Memory Used: 7.68MB          
+   Walltime requested: 04:00:00            Walltime Used: 00:00:02        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================
