@@ -25,12 +25,30 @@ def run_detectNodes(input_filelist, detect_filelist, mpi_np=4,
         String with a path to the textfile containing the input data required.
     detect_filelist : dtype str
         String with a path to the textfile containing the names of the detectNode output.
+    mpi_np : dtype int
+        Number of cores used in the calculation, given to mpi command.
     detect_var : dtype str
         String with the variable to detect (must match ib the input netcdf file).
     bounds : list (N=4), default=None.
-        a list containing the bounds of a bounding box to do detection in the form (minlon,maxlon,minlat,maxlat)
+        a list containing the bounds of a bounding box to do detection in the form [minlon,maxlon,minlat,maxlat]
+    closedcontour_commands : dtype str
+        String with the closed contour commands. Should be of the form <var,op,threshold,dist> with commands separated by a ";"
+    output_commands : dtype str
+        String with the output commands. Should be of the form <var,op,dist> with commands separated by a ";"
+    timeinterval : dtype str
+        String with the time interval (e.g. "6hr")
+    lonname : dtype str
+        String with the longitude variable name, as in the input netcdfs
+    latname : dtype str
+        String with the latitude variable name, as in the input netcdfs
+    logdir : dtype str
+        String with the path for logfile output.
+    regional : bool
+        *Optional*, default ``False``. If ``True``, tells TE that it is expecting a regional grid without periodic boundaries
     quiet : bool
         *Optional*, default ``False``. If ``True``, progress information is suppressed.
+    out_command_only : bool
+        *Optional*, default ``False``. If ``True``, will not run the TE command but instead with output the command for terminal use.
     '''
 
     # DetectNode command

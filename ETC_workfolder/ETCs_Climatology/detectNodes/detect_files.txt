@@ -1,0 +1,2 @@
+/scratch/nf33/ad1803/hk25-AusCyclones/ETC_workfolder/ETCs_Climatology/detectNodes/detectNodes_202210.txt
+/scratch/nf33/ad1803/hk25-AusCyclones/ETC_workfolder/ETCs_Climatology/detectNodes/detectNodes_202211.txt
